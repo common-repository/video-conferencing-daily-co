@@ -1,0 +1,427 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Video Conferencing Daily.co\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-08-22 08:06+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.4.2; wp-5.5.1-alpha-48833"
+
+#: includes/class-dailyco-actions.php:108
+#, php-format
+msgid "%s %s"
+msgstr ""
+
+#: includes/class-dailyco-posttype.php:25
+msgid "Add New Room"
+msgstr ""
+
+#: includes/class-dailyco-posttype.php:183
+msgid "Advanced Settings"
+msgstr ""
+
+#: includes/class-dailyco-settings.php:27
+msgid "API Key"
+msgstr ""
+
+#: includes/class-dailyco-posttype.php:237
+msgid "Auto join"
+msgstr ""
+
+#: includes/class-dailyco-posttype.php:131
+msgid "Cameras on start"
+msgstr ""
+
+#: includes/class-dailyco-posttype.php:91
+msgid "Character limitations: Max 34 characters. Use: A-Z, a-z, 0-9, -, _"
+msgstr ""
+
+#: includes/class-dailyco-posttype.php:238
+msgid "Choose whether to display the join page."
+msgstr ""
+
+#: includes/class-dailyco-settings.php:23
+msgid "Configuration"
+msgstr ""
+
+#: includes/class-dailyco-settings.php:110
+msgid "Connected"
+msgstr ""
+
+#: includes/class-dailyco-settings.php:39
+msgid "Connection Status"
+msgstr ""
+
+#: includes/class-dailyco-posttype.php:24
+msgid "Create a New Room"
+msgstr ""
+
+#: includes/class-dailyco-posttype.php:18
+msgid "Daily.co"
+msgstr ""
+
+#: includes/class-dailyco-posttype.php:47
+msgid "Daily.co Rooms"
+msgstr ""
+
+#: templates/admin/settings.php:2
+msgid "Daily.co Settings"
+msgstr ""
+
+#: includes/class-dailyco-posttype.php:19
+msgid "Dailyco Room"
+msgstr ""
+
+#: includes/class-dailyco-settings.php:87
+msgid "Dashboard - Developers"
+msgstr ""
+
+#: includes/class-dailyco-settings.php:110
+msgid "Disconnected"
+msgstr ""
+
+#: includes/class-dailyco-posttype.php:243
+msgid "Display join page"
+msgstr ""
+
+#: includes/class-dailyco-posttype.php:159
+msgid "Dutch"
+msgstr ""
+
+#: includes/class-dailyco-posttype.php:27
+msgid "Edit Room"
+msgstr ""
+
+#: includes/class-dailyco-posttype.php:194
+msgid "Eject after"
+msgstr ""
+
+#: includes/class-dailyco-posttype.php:263
+msgid "Eject on EXP"
+msgstr ""
+
+#: includes/class-dailyco-posttype.php:197
+msgid "Eject participants this many seconds after they join the meeting."
+msgstr ""
+
+#: includes/class-dailyco-posttype.php:264
+msgid "Eject participants when the EXP (Expires) time is reached."
+msgstr ""
+
+#: includes/class-dailyco-posttype.php:160
+msgid "English (default)"
+msgstr ""
+
+#: includes/class-dailyco-posttype.php:198
+msgid "Enter time in seconds (i.e. 3600)."
+msgstr ""
+
+#: includes/class-dailyco-settings.php:103
+#, php-format
+msgid "error: %s %s"
+msgstr ""
+
+#: includes/class-dailyco-posttype.php:256
+msgid "EXP (Expires)"
+msgstr ""
+
+#: includes/class-dailyco-posttype.php:34
+msgid "Featured Image"
+msgstr ""
+
+#: includes/class-dailyco-posttype.php:42
+msgid "Filter items list"
+msgstr ""
+
+#: includes/class-dailyco-settings.php:87
+msgid "Find your API key from"
+msgstr ""
+
+#: includes/class-dailyco-posttype.php:162
+msgid "Finnish"
+msgstr ""
+
+#: includes/class-dailyco-posttype.php:161
+msgid "French"
+msgstr ""
+
+#: includes/class-dailyco-posttype.php:82
+msgid "General Settings"
+msgstr ""
+
+#: includes/class-dailyco-posttype.php:163
+msgid "German"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://www.qfnetwork.org"
+msgstr ""
+
+#: includes/class-dailyco-posttype.php:289
+msgid "ID"
+msgstr ""
+
+#: includes/class-dailyco-posttype.php:90
+msgid ""
+"If left blank, a random room name will be generated. Room name cannot be "
+"changed after creation."
+msgstr ""
+
+#: includes/class-dailyco-posttype.php:38
+msgid "Insert into item"
+msgstr ""
+
+#: includes/class-dailyco-posttype.php:153
+msgid "Language"
+msgstr ""
+
+#: includes/class-dailyco-posttype.php:119
+msgid ""
+"Limit who can access the room. Room owners can always join any room they "
+"create."
+msgstr ""
+
+#: includes/class-dailyco-posttype.php:188
+msgid "Maximum participants"
+msgstr ""
+
+#: includes/class-dailyco-posttype.php:142
+msgid "Microphones on start"
+msgstr ""
+
+#: includes/class-dailyco-posttype.php:295
+msgid "Name"
+msgstr ""
+
+#: includes/class-dailyco-posttype.php:249
+msgid "NBF (Not before)"
+msgstr ""
+
+#: includes/class-dailyco-posttype.php:26
+msgid "New Room"
+msgstr ""
+
+#: includes/class-dailyco-posttype.php:32
+msgid "Not found"
+msgstr ""
+
+#: includes/class-dailyco-posttype.php:33
+msgid "Not found in Trash"
+msgstr ""
+
+#: includes/class-dailyco-posttype.php:137
+#: includes/class-dailyco-posttype.php:148
+#: includes/class-dailyco-posttype.php:211
+#: includes/class-dailyco-posttype.php:222
+#: includes/class-dailyco-posttype.php:233
+#: includes/class-dailyco-posttype.php:270
+msgid "Off"
+msgstr ""
+
+#: includes/class-dailyco-posttype.php:138
+#: includes/class-dailyco-posttype.php:149
+#: includes/class-dailyco-posttype.php:210
+#: includes/class-dailyco-posttype.php:221
+#: includes/class-dailyco-posttype.php:232
+#: includes/class-dailyco-posttype.php:269
+msgid "On"
+msgstr ""
+
+#: includes/class-dailyco-posttype.php:227
+msgid "Only meeting owners can screen share, record and use their camera/mic."
+msgstr ""
+
+#: includes/class-dailyco-posttype.php:125
+msgid "Org: only team members can join"
+msgstr ""
+
+#: includes/class-dailyco-posttype.php:226
+msgid "Owner only broadcast"
+msgstr ""
+
+#: includes/class-dailyco-posttype.php:22
+msgid "Parent Room:"
+msgstr ""
+
+#: includes/class-dailyco-posttype.php:216
+msgid "Participants can send text chat during calls."
+msgstr ""
+
+#: includes/class-dailyco-posttype.php:205
+msgid "Participants can share their screens during calls."
+msgstr ""
+
+#: includes/class-dailyco-posttype.php:257
+msgid "Participants cannot join after this time (UTC)."
+msgstr ""
+
+#: includes/class-dailyco-posttype.php:250
+msgid "Participants cannot join before this time (UTC)."
+msgstr ""
+
+#: includes/class-dailyco-posttype.php:164
+msgid "Portuguese"
+msgstr ""
+
+#: includes/class-dailyco-posttype.php:118
+msgid "Privacy"
+msgstr ""
+
+#: includes/class-dailyco-posttype.php:126
+msgid "Private: requires a token to join"
+msgstr ""
+
+#: includes/class-dailyco-posttype.php:124
+msgid "Public: anyone with the link can join"
+msgstr ""
+
+#. Author of the plugin
+msgid "qfnetwork, rahilwazir"
+msgstr ""
+
+#: includes/class-dailyco-posttype.php:36
+msgid "Remove featured image"
+msgstr ""
+
+#: includes/class-dailyco-posttype.php:46
+msgid "Room"
+msgstr ""
+
+#: includes/class-dailyco-posttype.php:20
+msgid "Room Archives"
+msgstr ""
+
+#: includes/class-dailyco-posttype.php:21
+msgid "Room Attributes"
+msgstr ""
+
+#: includes/class-dailyco-posttype.php:284
+msgid "Room Information"
+msgstr ""
+
+#: includes/class-dailyco-posttype.php:87
+msgid "Room name"
+msgstr ""
+
+#: includes/class-dailyco-posttype.php:23
+msgid "Rooms"
+msgstr ""
+
+#: includes/class-dailyco-posttype.php:40
+msgid "Rooms list"
+msgstr ""
+
+#: includes/class-dailyco-posttype.php:41
+msgid "Rooms list navigation"
+msgstr ""
+
+#: includes/class-dailyco-posttype.php:17
+msgctxt "Rooms Post type"
+msgid "Room"
+msgstr ""
+
+#: includes/class-dailyco-posttype.php:16
+msgctxt "Rooms Post type"
+msgid "Rooms"
+msgstr ""
+
+#: includes/class-dailyco-posttype.php:204
+msgid "Screen sharing"
+msgstr ""
+
+#: includes/class-dailyco-posttype.php:31
+msgid "Search Room"
+msgstr ""
+
+#: includes/class-dailyco-posttype.php:35
+msgid "Set featured image"
+msgstr ""
+
+#: includes/class-dailyco-posttype.php:154
+msgid "Set the language for this room's video call UI."
+msgstr ""
+
+#: includes/class-dailyco-posttype.php:189
+msgid ""
+"Set the maximum number of participants allowed in a room at the same time."
+msgstr ""
+
+#: includes/class-dailyco-posttype.php:132
+msgid ""
+"Set whether users join with their cameras on or off. Users can still control "
+"their cameras manually."
+msgstr ""
+
+#: includes/class-dailyco-posttype.php:143
+msgid ""
+"Set whether users join with their microphones on or off. Users can still "
+"control their microphones manually."
+msgstr ""
+
+#: dailyco.php:80 includes/class-dailyco-settings.php:55
+#: includes/class-dailyco-settings.php:56
+msgid "Settings"
+msgstr ""
+
+#. Description of the plugin
+msgid "Ship 1-click video chat faster and smarter"
+msgstr ""
+
+#: includes/class-dailyco-posttype.php:307
+msgid "Shortcode"
+msgstr ""
+
+#: includes/class-dailyco-posttype.php:244
+msgid "Skip join page"
+msgstr ""
+
+#: includes/class-dailyco-posttype.php:215
+msgid "Text chat"
+msgstr ""
+
+#: includes/class-dailyco-posttype.php:28
+msgid "Update Room"
+msgstr ""
+
+#: includes/class-dailyco-posttype.php:39
+msgid "Uploaded to this item"
+msgstr ""
+
+#: includes/class-dailyco-posttype.php:301
+msgid "URL"
+msgstr ""
+
+#: includes/class-dailyco-posttype.php:37
+msgid "Use as featured image"
+msgstr ""
+
+#: includes/class-dailyco-posttype.php:165
+msgid "Use browser setting"
+msgstr ""
+
+#. Name of the plugin
+msgid "Video Conferencing Daily.co"
+msgstr ""
+
+#: includes/class-dailyco-posttype.php:29
+msgid "View Room"
+msgstr ""
+
+#: includes/class-dailyco-posttype.php:30
+msgid "View Rooms"
+msgstr ""
+
+#: dailyco.php:96
+#, php-format
+msgid ""
+"You need to upgrade your PHP to atleast version 7.0.0. Currently %s is used. "
+"To resolve the upgrade please contact your server host."
+msgstr ""
